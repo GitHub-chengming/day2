@@ -1,5 +1,5 @@
 ＃day2
-分别打印
+分别打印五位数，并求和
 public static void main（String [] args）{
   int wuwei=31234;
   System.out.println("五位数时:"+wuwei);
