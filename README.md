@@ -1,6 +1,6 @@
-# day2
-小计
-public static void main(String[] args){
+＃day2
+分别打印
+public static void main（String [] args）{
   int wuwei=31234;
   System.out.println("五位数时:"+wuwei);
   int qianwei=wuweishu/10000;
